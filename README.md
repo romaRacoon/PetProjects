@@ -2,3 +2,6 @@
 # [Референс игры Pro Builder 3D (24.01.22) Reference of the game Pro Builder 3D (24.01.22)](https://github.com/romaRacoon/PetProjects/tree/proBuilder3D) 
 # [Референс игры Rise The Brick (27.01.22) Reference of the game Rise The Break (27.01.22)](https://github.com/romaRacoon/PetProjects/tree/RiseTheBrick)
 # [Референс-прототип игры Punch Masters от 4u Games (31.01.22) Punch Masters reference prototype from 4u Games (31.01.22)](https://github.com/romaRacoon/PetProjects/tree/punchMasters)
+# Помощь другу для практической работы (16.06.22) Helping a Friend for Practical Work (6/16/22)
+## Игра "Защита города". В центре города (внизу экрана) расположена зенитная установка. По бокам видны дома города. Вверху экрана, на недоступной для зениток высоте, летают самолеты и сбрасывают бомбы. Бомбы падают с разной скоростью. Задача игрока защитить город. The game "Defending the City". In the center of the city (at the bottom of the screen) is an anti-aircraft gun. On the sides you can see the houses of the city. At the top of the screen, at an altitude inaccessible to anti-aircraft guns, planes fly and drop bombs. The bombs fall at different speeds. The player's task is to protect the city 
+[Реализация задания Implementing the task](https://github.com/romaRacoon/PetProjects/tree/friendship)
